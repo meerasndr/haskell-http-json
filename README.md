@@ -1,6 +1,6 @@
 # Small Haskell app with HTTP & JSON
 
-Followed along this tutorial by [Morten Kolstad](https://github.com/morteako)to understand a practical context for Haskell language:
+Followed along this tutorial by [Morten Kolstad](https://github.com/morteako) to understand a practical context for Haskell language:
 https://functional.christmas/2019/23
 
 Learned about the following things:
